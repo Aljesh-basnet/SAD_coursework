@@ -80,7 +80,9 @@ public class Signup extends HttpServlet {
            
            out.println("Working");
            }
-        } catch (SQLException ex) {
+        }
+        
+        catch (SQLException ex) {
             Logger.getLogger(Signup.class.getName()).log(Level.SEVERE, null, ex);
         }
     }

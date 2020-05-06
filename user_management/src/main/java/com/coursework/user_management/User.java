@@ -36,6 +36,7 @@ public class User {
     private String user_blocked_status;
     private String user_created_date;  
     
+    
     /**
      * @return the user_id
      */
