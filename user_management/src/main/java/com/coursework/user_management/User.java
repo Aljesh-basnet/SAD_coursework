@@ -123,7 +123,7 @@ public class User {
     /**
      * @param user_password2
      */
-    public void setUser_passsword2(String user_password2) {
+public void setUser_passsword2(String user_password2) {
         this.user_password2 = user_password2;
     }
 
