@@ -19,7 +19,8 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author pguragain3
+ * @author aljes
+
  */
 public class Signup extends HttpServlet {
     User u = new User();
